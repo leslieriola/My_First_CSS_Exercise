@@ -1,0 +1,25 @@
+* {
+  margin-top: 20px;
+}
+
+.no1 {
+  background: pink;
+}
+
+.no1.no{
+  font-size: 100px;
+  
+}
+
+#no2 {
+  color: blue;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+#no3 {
+  background: rgb(62, 121, 62);
+  font-size: 35px;
+  font-weight: bolder;
+}
+

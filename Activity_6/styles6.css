@@ -1,0 +1,35 @@
+h1 {
+  font-weight: bolder;
+}
+h4 {
+  font-weight: bolder;
+}
+.button1 {
+  color: white;
+  background-color: green;
+  font-size: medium;
+  font-weight: bold;
+}
+.button2{
+  color: black;
+  background-color: white;
+  font-size: medium;
+  font-weight: bold;
+}
+.thin , 
+.thin2{ font-weight: 100 ;}
+.child {font-weight: bolder;}
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
